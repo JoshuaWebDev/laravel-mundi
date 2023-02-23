@@ -1,0 +1,20 @@
+{
+    "name": "joshuawebdev/laravel-mundi",
+    "description": "Laravel Package with informations about countries, states, and cities from the world",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Josué Barros da Silva",
+            "email": "josue.barros1986@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "JoshuaWebDev\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
